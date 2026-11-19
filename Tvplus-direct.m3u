@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tech1serca-sketch/Tv-liste/main/guide-tvplus-filtre.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tvmateca/Tv-liste/main/guide-tvplus-filtre.xml.gz"
 #EXTINF:-1 group-title="⚜️ Québec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png" tvg-id="ICI.RDI.HD.ca2",Ici RDI (720p)
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 #EXTINF:-1 group-title="⚜️ Québec" tvg-logo="https://i.imgur.com/pFCJGj4.png" tvg-id="CBFT-DT.ca2",ICI Radio C Montréal

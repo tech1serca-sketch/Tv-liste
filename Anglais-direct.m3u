@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tech1serca-sketch/Tv-liste/main/guide-anglais-filtre.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tvmateca/Tv-liste/main/guide-anglais-filtre.xml.gz"
 #EXTINF:-1 group-title="📰 News" tvg-logo="https://shahid.mbc.net/mediaObject/7cfc0baf-1201-477f-b722-d3099fafe17f?height=230&width=512&croppingPoint=&version=1&type=png" tvg-id="AlArabiyaEnglish.sa@SD",Al Arabiya English (1080p)
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #EXTINF:-1 group-title="📰 News" tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png" tvg-id="2GB.au@SD",2GB (1080p)
