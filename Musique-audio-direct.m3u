@@ -1,0 +1,49 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tvmateca/Tv-liste/main/guide-musique-audio-filtre.xml.gz"
+#EXTINF:-1 group-title="🎧 Musique - Audio Québec",ICI Musique
+https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8
+#EXTINF:-1 group-title="🎧 Musique - Audio Québec",CKOI 96.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKOIFMAAC_SC.aac
+#EXTINF:-1 group-title="🎧 Musique - Audio Québec",CHOM 97.7
+https://18193.live.streamtheworld.com/CHOMFMAAC.aac
+#EXTINF:-1 group-title="🎧 Musique - Audio Québec",Rythme FM 105.7 Montréal
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFGLFMAAC_SC.aac
+#EXTINF:-1 group-title="🎧 Musique - Audio Québec",Rouge FM Montreal 107.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/CITEFMAAC_SC.aac
+#EXTINF:-1 group-title="🎧 Musique - Audio Québec",Énergie Montreal 94.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKMFFMAAC_SC.aac
+#EXTINF:-1 group-title="🎧 Musique - Audio Québec",WKnd 91.9 Québec
+https://stream-cjec-rr01.leclerccom.com/cjec.mp3
+#EXTINF:-1 group-title="🎧 Musique - Audio Québec",KYK 95.7 Radio X
+https://17643.live.streamtheworld.com/CKYKFMAAC.aac
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" group-title="🎧 Musique - Audio Québec",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" group-title="🎧 Musique - Audio Québec",Stingray Everything 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🎧 Musique - Audio Québec",CJMS Country
+https://ns1.clemento.ca:21000/stream
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" group-title="🎧 Musique - Audio Québec",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca" group-title="🎧 Musique - Audio Québec",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca" group-title="🎧 Musique - Audio Québec",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" group-title="🎧 Musique - Audio Québec",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" group-title="🎧 Musique - Audio Québec",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" group-title="🎧 Musique - Audio Québec",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="🎧 Musique - Audio Québec",CJMS Rock
+https://ns1.clemento.ca:21000/rock2
+#EXTINF:-1 group-title="🎧 Musique - Audio Québec",Hit Country 105.3 Beauce
+https://stream2.statsradio.com:8108/stream
+#EXTINF:-1 group-title="🎸 Musique - Rock & Metal",90's Alternative
+http://listen.livestreamingservice.com/181-90salt_128k.mp3
+#EXTINF:-1 group-title="🎸 Musique - Rock & Metal",Full Metal Jackie
+http://stream.revma.ihrhls.com/zc6225/hls.m3u8
+#EXTINF:-1 group-title="🎸 Musique - Rock & Metal",IROCK 247
+https://streamer.radio.co/s493283a7e/listen
+#EXTINF:-1 group-title="🎸 Musique - Rock & Metal",The Buzz (Alt. Rock)
+http://listen.livestreamingservice.com/181-buzz_128k.mp3
+#EXTINF:-1 group-title="🎸 Musique - Rock & Metal",Rock 181
+http://listen.livestreamingservice.com/181-rock_128k.mp3
